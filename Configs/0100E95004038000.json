@@ -35,7 +35,7 @@
 		  "widget" : {
 			"type" : "int",
 			"minValue" : 0,
-			"maxValue" : 99
+			"maxValue" : 99999
 		  }
 		},
 		{
